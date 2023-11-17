@@ -61,7 +61,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "mbrsiteDomain": "m5y4lssqfg",
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
@@ -71,7 +73,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": ""
       },
       "components": [
         {
